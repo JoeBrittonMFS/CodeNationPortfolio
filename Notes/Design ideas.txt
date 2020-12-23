@@ -1,0 +1,1 @@
+When hovering over the image, it goes opaque, and then a button emerges.
